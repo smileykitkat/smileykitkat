@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Kylie Fitzgerald!</h1>
+<h1 align="center">Hey 👋, I'm Kylie !</h1>
 <h3 align="center">I am a junior studying Management Information Systems at UNC Charlotte.</h3>
 
 - :bar_chart: I'm currently learning how to create visuals from datasets!
